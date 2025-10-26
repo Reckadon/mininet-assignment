@@ -3,6 +3,7 @@ from mininet.net import Mininet
 from mininet.node import OVSController
 from mininet.link import TCLink
 from mininet.cli import CLI
+import csv
 
 class DNSTopo(Topo):
     def build(self):
@@ -34,12 +35,37 @@ class DNSTopo(Topo):
         # DNS resolver link
         self.addLink(s2, dns, bw=100, delay='1ms')
 
+def log_latencies(net):
+    """Ping all host pairs and save results to CSV."""
+    hosts = net.hosts
+    csv_file = "latency_matrix.csv"
+
+    with open(csv_file, 'w', newline='') as f:
+        writer = csv.writer(f)
+        # Header row
+        header = ["Source/Destination"] + [h.name for h in hosts]
+        writer.writerow(header)
+
+        for src in hosts:
+            row = [src.name]
+            for dst in hosts:
+                if src == dst:
+                    row.append("—")  # no self-latency
+                    continue
+                # Ping once and extract average latency
+                latency = src.cmd(f'ping -c 1 {dst.IP()} | tail -1 | cut -d"/" -f5').strip()
+                row.append(latency if latency else "timeout")
+            writer.writerow(row)
+
+    print(f"\n✅ Latency matrix saved to {csv_file}")
+
 if __name__ == '__main__':
     net = Mininet(topo=DNSTopo(), controller=OVSController, link=TCLink)
     net.start()
     print("*** Network started")
     print("*** Testing connectivity:")
     net.pingFull()
+    log_latencies(net)
     print("*** Dropping into CLI: test manually if needed")
     CLI(net)
     net.stop()
