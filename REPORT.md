@@ -132,8 +132,7 @@ This pings the DNS node from H1 node for 2 packets.
 We first extracted the DNS queries from the respective PCAP files (stored in /pcap) to get the URLs to be resolved, using the command:
 
 ```bash
-tshark -r pcap/PCAP_3_H3.pcap -Y "dns && udp.port == 53" -T fie
-lds -e dns.qry.name > pcap/h3_domains.txt
+tshark -r pcap/PCAP_3_H3.pcap -Y "dns && udp.port == 53" -T fields -e dns.qry.name > pcap/h3_domains.txt
 ```
 
 Breakdown of the command:
