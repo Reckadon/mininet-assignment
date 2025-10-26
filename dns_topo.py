@@ -40,6 +40,6 @@ if __name__ == '__main__':
     print("*** Network started")
     print("*** Testing connectivity:")
     net.pingFull()
-    print("*** Dropping into CLI — test manually if needed")
+    print("*** Dropping into CLI: test manually if needed")
     CLI(net)
     net.stop()
