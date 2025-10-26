@@ -61,6 +61,7 @@ def log_latencies(net):
 
 if __name__ == '__main__':
     net = Mininet(topo=DNSTopo(), controller=OVSController, link=TCLink)
+    nat = net.addNAT(name='nat0', connect='s2', ip='10.0.0.254/24').configDefault()
     net.start()
     print("*** Network started")
     print("*** Testing connectivity:")
