@@ -1,101 +1,101 @@
 Domain,Status,Latency (ms)
-gustissimo.it,SUCCESS,0.59
-auto-klad.ru,SUCCESS,0.11
-iointegrators.com,SUCCESS,0.08
-daytimeghosthunter.com,FAIL,5.89
-sapendolo.it,FAIL,9.87
-saharaimport.com,SUCCESS,0.29
-ngoanhien.com,FAIL,5.06
-itgeorgia.co,SUCCESS,0.18
-myfantasticpark.es,SUCCESS,0.09
-vinayaprabha.com,SUCCESS,0.11
-sitiweb.us,SUCCESS,0.08
-contentremarketing.com,SUCCESS,0.08
-videofun.me,FAIL,5.06
-breezelaw.com,SUCCESS,0.26
-ranocchi.it,SUCCESS,0.1
-22hotmail.com,SUCCESS,0.11
-ana-sofia.pt,SUCCESS,0.08
-abhair.com,SUCCESS,0.08
-tripladoppia.com,FAIL,3.73
-gardeninginflorida.com,SUCCESS,0.25
-thepropertyvault.co.uk,SUCCESS,0.13
-viahttps.com,SUCCESS,0.09
-adverman.com,SUCCESS,0.08
-majorleaguelacrosse.com,SUCCESS,0.1
-rubenquinones.com,SUCCESS,0.1
-kanoon-ansar.org,SUCCESS,0.08
-arrabonet.hu,SUCCESS,0.08
-wordai.com,SUCCESS,0.08
-muhammedmusa.com,FAIL,5.03
-freepornvideosx.com,FAIL,4.87
-120shenbing.com,FAIL,34.37
-onetoshop.nl,SUCCESS,0.26
-meditekyazilim.net,SUCCESS,0.08
-theexoticpersian.com,FAIL,4.29
-boh10suphanburi.com,FAIL,4.81
-overseasmedical.com,SUCCESS,0.17
-grandcanyongrandhotel.com,SUCCESS,0.08
-boneshoppe.com,FAIL,4.98
-sweathelp.org,SUCCESS,0.28
-c0.pl,SUCCESS,0.17
-sipflash.com,FAIL,5.03
-koopsmodellbau.de,SUCCESS,0.18
-lespetiteschoses.com,SUCCESS,0.1
-b2b2c.ca,SUCCESS,0.08
-pilsnerurquell.com,SUCCESS,0.08
-medintime.ru,SUCCESS,0.11
-njafe.org,SUCCESS,0.08
-djbarryblends.com,SUCCESS,0.08
-deine-bahn.de,SUCCESS,0.08
-hackthissite.org,SUCCESS,0.14
-ereadz.com,FAIL,5.19
-gurukulonline.com,SUCCESS,0.21
-sf-notifications.com,FAIL,4.33
-capequilog.com,SUCCESS,0.28
-greens.my,SUCCESS,0.12
-2xfzy.com,SUCCESS,0.08
-magic-illusion.ru,SUCCESS,0.09
-irflashgame.com,FAIL,5.79
-solcredito.es,SUCCESS,54.49
-go2jump.com,SUCCESS,0.27
-millionfareast.com,SUCCESS,0.17
-msf.be,SUCCESS,0.11
-cellslider.net,SUCCESS,0.11
-bhhsneproperties.com,SUCCESS,0.1
-skplus.kr,FAIL,46.05
-empclan.com,SUCCESS,0.18
-carolgraykennedy.com,FAIL,3.58
-kiyimuzik.com,SUCCESS,0.21
-yunpda.com,FAIL,5.91
-valdo.com,SUCCESS,0.18
-supportpabiomass.org,SUCCESS,0.09
-roche-applied-science.com,SUCCESS,0.08
-oneworldinfo.com,SUCCESS,0.11
-7apcrshrmanila.org,FAIL,4.25
-ilikecrochet.com,SUCCESS,0.23
-closerdiets.com,SUCCESS,0.11
-myface.com,FAIL,4.92
-megi.cz,SUCCESS,0.33
-pces.in,SUCCESS,0.18
-originalmagicart.com,SUCCESS,0.2
-godo.co.kr,SUCCESS,0.14
-ugotrelis.com,SUCCESS,0.13
-alb-automobiles.com,FAIL,40.69
-ok-magazine.ru,SUCCESS,428.21
-wiltpr.com,FAIL,14.3
-dmg-dental.com,SUCCESS,0.17
-silkroadtours.com,SUCCESS,0.09
-rositehost.com,SUCCESS,0.08
-livescan4all.com,SUCCESS,0.08
-oberandsons.com,SUCCESS,0.08
-celerity.com,SUCCESS,0.08
-miscellaneousheathen.com,SUCCESS,0.08
-rolflouisville.com,SUCCESS,0.08
-jacquelinemertz.ch,FAIL,6.35
-gaplex.biz,FAIL,4.14
-frasesdemotivacao.net,FAIL,46.79
-divefishhouse.com,FAIL,5.19
-stark.dk,SUCCESS,0.2
-xxx-muschis.de,FAIL,3.5
-florenseusa.com,SUCCESS,0.2
+gustissimo.it,SUCCESS,73.48
+auto-klad.ru,SUCCESS,74.84
+iointegrators.com,SUCCESS,99.28
+daytimeghosthunter.com,FAIL - [Errno -2] Name or service not known,76.03
+sapendolo.it,FAIL - [Errno -3] Temporary failure in name resolution,443.46
+saharaimport.com,SUCCESS,72.31
+ngoanhien.com,FAIL - [Errno -2] Name or service not known,78.77
+itgeorgia.co,SUCCESS,426.61
+myfantasticpark.es,SUCCESS,348.45
+vinayaprabha.com,SUCCESS,212.31
+sitiweb.us,SUCCESS,73.38
+contentremarketing.com,SUCCESS,341.81
+videofun.me,FAIL - [Errno -5] No address associated with hostname,72.51
+breezelaw.com,SUCCESS,373.09
+ranocchi.it,SUCCESS,300.93
+22hotmail.com,SUCCESS,72.74
+ana-sofia.pt,SUCCESS,73.07
+abhair.com,SUCCESS,72.57
+tripladoppia.com,FAIL - [Errno -2] Name or service not known,79.97
+gardeninginflorida.com,SUCCESS,140.22
+thepropertyvault.co.uk,SUCCESS,75.82
+viahttps.com,SUCCESS,70.57
+adverman.com,SUCCESS,71.93
+majorleaguelacrosse.com,SUCCESS,78.82
+rubenquinones.com,SUCCESS,74.04
+kanoon-ansar.org,SUCCESS,79.61
+arrabonet.hu,SUCCESS,71.81
+wordai.com,SUCCESS,79.33
+muhammedmusa.com,FAIL - [Errno -2] Name or service not known,141.11
+freepornvideosx.com,FAIL - [Errno -2] Name or service not known,132.65
+120shenbing.com,FAIL - [Errno -2] Name or service not known,132.68
+onetoshop.nl,SUCCESS,82.75
+meditekyazilim.net,SUCCESS,71.24
+theexoticpersian.com,FAIL - [Errno -2] Name or service not known,76.76
+boh10suphanburi.com,FAIL - [Errno -2] Name or service not known,80.5
+overseasmedical.com,SUCCESS,71.29
+grandcanyongrandhotel.com,SUCCESS,76.53
+boneshoppe.com,FAIL - [Errno -2] Name or service not known,81.98
+sweathelp.org,SUCCESS,70.85
+c0.pl,SUCCESS,391.06
+sipflash.com,FAIL - [Errno -5] No address associated with hostname,428.12
+koopsmodellbau.de,SUCCESS,72.56
+lespetiteschoses.com,SUCCESS,113.85
+b2b2c.ca,SUCCESS,354.85
+pilsnerurquell.com,SUCCESS,78.92
+medintime.ru,SUCCESS,77.34
+njafe.org,SUCCESS,393.32
+djbarryblends.com,SUCCESS,138.47
+deine-bahn.de,SUCCESS,71.95
+hackthissite.org,SUCCESS,501.24
+ereadz.com,FAIL - [Errno -2] Name or service not known,74.95
+gurukulonline.com,SUCCESS,73.77
+sf-notifications.com,FAIL - [Errno -5] No address associated with hostname,72.12
+capequilog.com,SUCCESS,77.69
+greens.my,SUCCESS,77.01
+2xfzy.com,SUCCESS,475.47
+magic-illusion.ru,SUCCESS,75.62
+irflashgame.com,FAIL - [Errno -2] Name or service not known,82.02
+solcredito.es,SUCCESS,76.23
+go2jump.com,SUCCESS,71.99
+millionfareast.com,SUCCESS,142.42
+msf.be,SUCCESS,79.53
+cellslider.net,SUCCESS,80.16
+bhhsneproperties.com,SUCCESS,82.07
+skplus.kr,FAIL - [Errno -2] Name or service not known,72.81
+empclan.com,SUCCESS,314.2
+carolgraykennedy.com,FAIL - [Errno -2] Name or service not known,77.22
+kiyimuzik.com,SUCCESS,80.27
+yunpda.com,FAIL - [Errno -2] Name or service not known,78.16
+valdo.com,SUCCESS,75.02
+supportpabiomass.org,SUCCESS,78.96
+roche-applied-science.com,SUCCESS,73.93
+oneworldinfo.com,SUCCESS,72.03
+7apcrshrmanila.org,FAIL - [Errno -2] Name or service not known,74.83
+ilikecrochet.com,SUCCESS,82.18
+closerdiets.com,SUCCESS,77.83
+myface.com,FAIL - [Errno -5] No address associated with hostname,73.55
+megi.cz,SUCCESS,73.2
+pces.in,SUCCESS,82.31
+originalmagicart.com,SUCCESS,138.69
+godo.co.kr,SUCCESS,202.88
+ugotrelis.com,SUCCESS,812.14
+alb-automobiles.com,FAIL - [Errno -2] Name or service not known,78.88
+ok-magazine.ru,SUCCESS,465.85
+wiltpr.com,FAIL - [Errno -2] Name or service not known,135.23
+dmg-dental.com,SUCCESS,74.75
+silkroadtours.com,SUCCESS,351.46
+rositehost.com,SUCCESS,522.68
+livescan4all.com,SUCCESS,73.21
+oberandsons.com,SUCCESS,428.33
+celerity.com,SUCCESS,144.26
+miscellaneousheathen.com,SUCCESS,319.63
+rolflouisville.com,SUCCESS,73.54
+jacquelinemertz.ch,FAIL - [Errno -2] Name or service not known,74.23
+gaplex.biz,FAIL - [Errno -2] Name or service not known,77.56
+frasesdemotivacao.net,FAIL - [Errno -2] Name or service not known,74.41
+divefishhouse.com,FAIL - [Errno -2] Name or service not known,75.86
+stark.dk,SUCCESS,72.63
+xxx-muschis.de,FAIL - [Errno -2] Name or service not known,134.92
+florenseusa.com,SUCCESS,136.98

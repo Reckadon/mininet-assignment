@@ -1,101 +1,101 @@
 Domain,Status,Latency (ms)
-likeminded.ca,SUCCESS,0.6
-alltransport.ru,SUCCESS,0.11
-brown.edu,SUCCESS,0.08
-fauzanalfi.com,FAIL,4.24
-supreetsethi.net,FAIL,4.29
-gucenmez.com,SUCCESS,0.23
-seedy.dk,SUCCESS,0.11
-51cdngo.com,FAIL,3.42
-simple-health-reports.com,FAIL,4.89
-hivelocitymedia.com,SUCCESS,0.38
-jabeye.org,SUCCESS,0.28
-ticketbis.com,FAIL,4.48
-cellularfactory.com,SUCCESS,0.19
-tsksv.ru,SUCCESS,0.08
-gaybodyblog.com,FAIL,4.49
-datadikdki.net,SUCCESS,0.2
-mumphi.de,SUCCESS,0.09
-brfone.com,SUCCESS,0.1
-newpages2u.com,SUCCESS,0.1
-bigjournalism.com,SUCCESS,0.11
-congsoxanh.com,SUCCESS,0.1
-visualtap.com,SUCCESS,0.08
-oberoncompany.com,SUCCESS,0.1
-consejodentistas.org,SUCCESS,0.09
-k-dsl.de,FAIL,22.13
-asip.es,FAIL,4.42
-androgyn.org,SUCCESS,0.19
-panaceadream.com,FAIL,4.65
-hotel.ch,SUCCESS,0.2
-c3budiman.tk,FAIL,4.39
-obtscan.com,FAIL,4.95
-phoenix-music.ru,FAIL,6.13
-motiie.com,FAIL,26.47
-cncdesign.co.kr,SUCCESS,0.29
-udoo24.com,SUCCESS,0.17
-ljyelectronic.com,SUCCESS,0.17
-bek.ir,FAIL,5.17
-valerievandenbroek.nl,FAIL,4.78
-lacuentaperdida.org,FAIL,3.85
-alkoholiker-clan.de,SUCCESS,0.17
-doommovie.com,SUCCESS,0.12
-xqgcab.com,FAIL,3.72
-uanet.net,SUCCESS,0.17
-tomorrowsreflection.com,SUCCESS,0.09
-lighthouse.cc,SUCCESS,0.08
-7sports.jp,SUCCESS,0.12
-gamepsvita.com,SUCCESS,0.11
-thunderex.com,SUCCESS,0.08
-zamlelova.ru,SUCCESS,0.08
-atomicbase.com,SUCCESS,0.08
-qdushu.com,FAIL,49.58
-raqualia.com,FAIL,4.51
-fanzi.pl,FAIL,4.91
-womenology.com,SUCCESS,0.28
-tonaci.com,SUCCESS,0.17
-youngsnetwork.it,FAIL,4.6
-gvowebcast.com,SUCCESS,0.32
-aspiringwriter.ca,FAIL,5.01
-heygal.net,FAIL,29.99
-mpskota.com,SUCCESS,0.17
-ohdev.co.uk,SUCCESS,0.08
-topilehtipuu.com,SUCCESS,0.09
-thereeftank.com,SUCCESS,0.12
-volksschule-neufahrn.de,FAIL,4.9
-qingjiaopidaiji.com,FAIL,3.72
-jcwcn.com,SUCCESS,0.18
-huhgmbh.com,SUCCESS,0.11
-redcrosseth.org,SUCCESS,0.08
-lookpage.org,FAIL,4.85
-mplus.hk,SUCCESS,0.2
-sandieskorner.com,FAIL,4.22
-sinemagrafik.com,FAIL,4.19
-itattoos.org,FAIL,32.38
-lgmonitorreview.nl,FAIL,7.02
-sscw.ee,SUCCESS,0.17
-nucre.com,SUCCESS,0.12
-cornesoft.com,FAIL,4.73
-mattselznick.com,SUCCESS,0.17
-horn-elektronik.com,SUCCESS,0.08
-rousing.dk,SUCCESS,0.08
-i12.de,FAIL,4.1
-casco.com,SUCCESS,0.19
-ambassadorsspfhf.org,FAIL,30.64
-capella.edu,SUCCESS,0.43
-nipslab.org,SUCCESS,0.1
-webxtrap.com,SUCCESS,0.08
-stopallthathating.com,FAIL,4.39
-ovtoc.com,SUCCESS,0.18
-vaco.ru,SUCCESS,0.09
-ku.edu,SUCCESS,0.08
-amedeos.net,SUCCESS,0.1
-thankfullyyours.com,SUCCESS,0.08
-elettronix.com,SUCCESS,0.08
-meintrendyhandy.de,SUCCESS,0.08
-a-loud.com,SUCCESS,0.08
-hznzcn.com,SUCCESS,0.08
-zilch.org,SUCCESS,0.07
-metabans.com,SUCCESS,0.1
-tretsomshop.nl,SUCCESS,0.08
-gba4iosapp.com,SUCCESS,0.08
+likeminded.ca,SUCCESS,32.43
+alltransport.ru,SUCCESS,463.42
+brown.edu,SUCCESS,315.74
+fauzanalfi.com,FAIL - [Errno -5] No address associated with hostname,91.23
+supreetsethi.net,FAIL - [Errno -2] Name or service not known,43.93
+gucenmez.com,SUCCESS,33.23
+seedy.dk,SUCCESS,33.68
+51cdngo.com,FAIL - [Errno -5] No address associated with hostname,35.27
+simple-health-reports.com,FAIL - [Errno -2] Name or service not known,37.32
+hivelocitymedia.com,SUCCESS,33.54
+jabeye.org,SUCCESS,636.11
+ticketbis.com,FAIL - [Errno -5] No address associated with hostname,92.01
+cellularfactory.com,SUCCESS,34.86
+tsksv.ru,SUCCESS,412.3
+gaybodyblog.com,SUCCESS,39.78
+datadikdki.net,SUCCESS,30.98
+mumphi.de,SUCCESS,30.59
+brfone.com,SUCCESS,375.73
+newpages2u.com,SUCCESS,36.01
+bigjournalism.com,SUCCESS,100.21
+congsoxanh.com,SUCCESS,41.69
+visualtap.com,SUCCESS,33.54
+oberoncompany.com,SUCCESS,41.82
+consejodentistas.org,SUCCESS,349.37
+k-dsl.de,FAIL - [Errno -2] Name or service not known,94.5
+asip.es,FAIL - [Errno -2] Name or service not known,36.89
+androgyn.org,SUCCESS,368.99
+panaceadream.com,FAIL - [Errno -2] Name or service not known,39.67
+hotel.ch,SUCCESS,36.38
+c3budiman.tk,FAIL - [Errno -2] Name or service not known,172.67
+obtscan.com,FAIL - [Errno -2] Name or service not known,38.37
+phoenix-music.ru,FAIL - [Errno -2] Name or service not known,849.18
+motiie.com,FAIL - [Errno -2] Name or service not known,38.89
+cncdesign.co.kr,SUCCESS,31.7
+udoo24.com,SUCCESS,33.04
+ljyelectronic.com,SUCCESS,33.65
+bek.ir,FAIL - [Errno -2] Name or service not known,387.26
+valerievandenbroek.nl,FAIL - [Errno -2] Name or service not known,34.74
+lacuentaperdida.org,FAIL - [Errno -2] Name or service not known,95.26
+alkoholiker-clan.de,SUCCESS,35.49
+doommovie.com,SUCCESS,33.68
+xqgcab.com,FAIL - [Errno -2] Name or service not known,97.79
+uanet.net,SUCCESS,401.61
+tomorrowsreflection.com,SUCCESS,32.29
+lighthouse.cc,SUCCESS,31.91
+7sports.jp,SUCCESS,303.09
+gamepsvita.com,SUCCESS,38.77
+thunderex.com,SUCCESS,90.47
+zamlelova.ru,SUCCESS,1828.04
+atomicbase.com,SUCCESS,32.38
+qdushu.com,SUCCESS,33.38
+raqualia.com,FAIL - [Errno -5] No address associated with hostname,32.19
+fanzi.pl,FAIL - [Errno -2] Name or service not known,33.73
+womenology.com,SUCCESS,40.89
+tonaci.com,SUCCESS,43.24
+youngsnetwork.it,FAIL - [Errno -2] Name or service not known,37.03
+gvowebcast.com,SUCCESS,42.19
+aspiringwriter.ca,FAIL - [Errno -2] Name or service not known,96.88
+heygal.net,FAIL - [Errno -2] Name or service not known,40.87
+mpskota.com,SUCCESS,58.95
+ohdev.co.uk,SUCCESS,34.59
+topilehtipuu.com,SUCCESS,34.07
+thereeftank.com,SUCCESS,36.41
+volksschule-neufahrn.de,FAIL - [Errno -2] Name or service not known,93.84
+qingjiaopidaiji.com,FAIL - [Errno -2] Name or service not known,39.81
+jcwcn.com,SUCCESS,34.48
+huhgmbh.com,SUCCESS,32.37
+redcrosseth.org,SUCCESS,31.5
+lookpage.org,FAIL - [Errno -2] Name or service not known,1100.62
+mplus.hk,SUCCESS,1445.95
+sandieskorner.com,FAIL - [Errno -2] Name or service not known,40.39
+sinemagrafik.com,FAIL - [Errno -2] Name or service not known,269.1
+itattoos.org,FAIL - [Errno -2] Name or service not known,33.3
+lgmonitorreview.nl,FAIL - [Errno -2] Name or service not known,33.87
+sscw.ee,SUCCESS,32.66
+nucre.com,SUCCESS,32.35
+cornesoft.com,FAIL - [Errno -2] Name or service not known,91.76
+mattselznick.com,SUCCESS,302.45
+horn-elektronik.com,SUCCESS,743.31
+rousing.dk,SUCCESS,33.11
+i12.de,FAIL - [Errno -5] No address associated with hostname,39.27
+casco.com,SUCCESS,44.1
+ambassadorsspfhf.org,FAIL - [Errno -2] Name or service not known,531.18
+capella.edu,SUCCESS,35.76
+nipslab.org,SUCCESS,31.92
+webxtrap.com,SUCCESS,33.43
+stopallthathating.com,FAIL - [Errno -2] Name or service not known,40.38
+ovtoc.com,SUCCESS,31.29
+vaco.ru,SUCCESS,35.28
+ku.edu,SUCCESS,299.03
+amedeos.net,SUCCESS,32.57
+thankfullyyours.com,SUCCESS,99.15
+elettronix.com,SUCCESS,34.02
+meintrendyhandy.de,SUCCESS,408.0
+a-loud.com,SUCCESS,33.53
+hznzcn.com,SUCCESS,466.34
+zilch.org,SUCCESS,32.68
+metabans.com,SUCCESS,96.33
+tretsomshop.nl,SUCCESS,306.2
+gba4iosapp.com,SUCCESS,31.74
