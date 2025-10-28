@@ -7,12 +7,16 @@
     - [**B. In the simulated topology, use the default host resolver to resolve the URLs specified in each host’s respective PCAP file, and record for each host the average lookup latency, average throughput, number of successfully resolved queries, and number of failed resolutions. (10 Points)**](#b-in-the-simulated-topology-use-the-default-host-resolver-to-resolve-the-urls-specified-in-each-hosts-respective-pcap-file-and-record-for-each-host-the-average-lookup-latency-average-throughput-number-of-successfully-resolved-queries-and-number-of-failed-resolutions-10-points)
     - [**C. Modify the DNS configuration of all Mininet hosts to use your custom resolver as the primary DNS server instead of the default system resolver. Show all the steps along with relevant screenshots. (10 Points)**](#c-modify-the-dns-configuration-of-all-mininet-hosts-to-use-your-custom-resolver-as-the-primary-dns-server-instead-of-the-default-system-resolver-show-all-the-steps-along-with-relevant-screenshots-10-points)
     - [**D. Repeat DNS resolution for the given PCAPs as done in part B, this time using your custom DNS resolver (10.0.0.5). Compare the results with those obtained in part B. Additionally, log the following in the custom DNS resolver:**](#d-repeat-dns-resolution-for-the-given-pcaps-as-done-in-part-b-this-time-using-your-custom-dns-resolver-10005-compare-the-results-with-those-obtained-in-part-b-additionally-log-the-following-in-the-custom-dns-resolver)
+      - [Plots for H1 (first 10 URLs)](#plots-for-h1-first-10-urls)
+    - [**F. Implement  caching  within  your  custom  DNS  resolver.  Store  recently  resolved  domain-to-IP mappings  and  serve  repeated  queries  directly  from  cache  without  contacting  external  servers. Record  the  average  lookup  latency,  average  throughput,  number  of  successfully  resolved  queries, % of queries resolved from cache and number of failed resolutions.  (2.5 Points)**](#f-implement--caching--within--your--custom--dns--resolver--store--recently--resolved--domain-to-ip-mappings--and--serve--repeated--queries--directly--from--cache--without--contacting--external--servers-record--the--average--lookup--latency--average--throughput--number--of--successfully--resolved--queries--of-queries-resolved-from-cache-and-number-of-failed-resolutions--25-points)
 
 **Team Details:**
 Name | Roll Number
 |---|---|
 Romit Mohane | 23110279
-Bhavya Parmar | -
+Bhavya Parmar | 23110059
+
+**Github Repository Link**: [Reckadon/mininet-assignment](https://github.com/Reckadon/mininet-assignment)
 
 ## Task: DNS Query Resolution
 
@@ -223,6 +227,8 @@ We can check for the changes using `cat` command to open the file.
 
 **For PCAP_1_H1, present graphical plots for the first 10 URLs, showing the total number of DNS servers visited and latency per query.**
 
+The Pure Iterative DNS Resolver can be found in `custom_dns.py`
+
 To let the Mininet nodes access the internet: Enable IP forwarding on the VM
 
 ```bash
@@ -236,9 +242,9 @@ To test DNS resolution:
 ```bash
 h1 dig example.com
 ```
-The resolver logs can be found in `resolver_detailed_steps.csv` and `resolver_summary.csv`. 
+The resolver logs can be found in `results_custom` folder in `steps` and `summary` log files. (`H1_steps.csv`, `H1_summary.csv`, etc.)
 ![steps](images/D-steps.png)
-We also have some random/leaky DNS queries from internal applications, as shown below:
+We can also have some random/leaky DNS queries from internal applications, as shown below:
 ![leaky dns](images/D-leaky.png)
 
 Now, you can use the following command to resolve the URLs form the PCAPs (Repeat Part B):
@@ -250,3 +256,17 @@ where you can replace h1/H1 with h2/H2, h3/H3 and h4/H4 respectively.
 Then, you can see the logs live in the `csv` files mentioned above.
 ![detailedsteps](images/D-steps2.png)
 ![summaries](images/D-summaries.png)
+
+#### Plots for H1 (first 10 URLs)
+**Pure Iterative Server**
+![dns queries](images/H1_servers.png)
+![latency](images/H1_latency.png)
+
+
+### **F. Implement  caching  within  your  custom  DNS  resolver.  Store  recently  resolved  domain-to-IP mappings  and  serve  repeated  queries  directly  from  cache  without  contacting  external  servers. Record  the  average  lookup  latency,  average  throughput,  number  of  successfully  resolved  queries, % of queries resolved from cache and number of failed resolutions.  (2.5 Points)**
+
+The DNS Resolver with Caching can be found in `custom_dns_cache.py`
+
+You can see the detailed logs and overall metrics, for Custom DNS Resolver with Cache, in the folder `results_custom_cache`.   
+*Steps with Cache Status*
+![cache steps](images/F-steps.png)
