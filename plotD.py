@@ -11,6 +11,9 @@ summary['domain'] = summary['domain'].str.strip().str.lower()
 #drop rows containing ubuntu (leaky queries)
 steps = steps[~steps['domain'].str.contains('ubuntu')]
 summary = summary[~summary['domain'].str.contains('ubuntu')]
+#drop google domains (leaky queries)
+steps = steps[~steps['domain'].str.contains('google')]
+summary = summary[~summary['domain'].str.contains('google')]
 # Count number of DNS servers contacted per domain
 servers_visited = steps.groupby('domain')['dns_server_ip'].nunique().reset_index()
 servers_visited.columns = ['domain', 'servers_visited']
