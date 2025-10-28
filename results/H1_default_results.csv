@@ -1,101 +1,101 @@
 Domain,Status,Latency (ms)
-tuhafhaberler.com,FAIL,15.89
-rtsab.com,FAIL,4.57
-i-butterfly.ru,SUCCESS,0.38
-datepanchang.com,SUCCESS,0.21
-localhost.re,SUCCESS,0.15
-daehepharma.com,FAIL,3.91
-ex-jw.org,SUCCESS,0.33
-us.tf,FAIL,9.35
-informarexresistere.fr,SUCCESS,0.17
-running-sigi.de,FAIL,3.86
-buynowfromusa.com,SUCCESS,0.18
-pbprofile.com,FAIL,4.42
-fini.net,SUCCESS,0.28
-globalpoliticalspectrum.com,FAIL,4.18
-41latitude.com,FAIL,4.83
-zzxu.cn,FAIL,5.24
-energybulbs.co.uk,SUCCESS,0.17
-o-ov.com,FAIL,7.55
-lozo.com,SUCCESS,0.21
-tottenhamhk.com,FAIL,4.31
-newstetic.com,SUCCESS,0.23
-triggerfish.se,SUCCESS,0.1
-reprosystems.ru,SUCCESS,0.1
-interfloracentral.co.uk,SUCCESS,0.09
-afairjudgement.com,SUCCESS,0.11
-owlcreek.com,SUCCESS,0.08
-radioterminal.ru,SUCCESS,0.08
-junio.com,SUCCESS,0.08
-ditrblog.com,FAIL,4.37
-alchemedialtd.com,SUCCESS,0.18
-portclydegeneralstore.com,SUCCESS,0.13
-alenpuaca.com,SUCCESS,0.08
-dj-producer-j-mbargo.com,FAIL,3.65
-iag-inc.com,SUCCESS,0.25
-advertos.ru,SUCCESS,0.08
-kh.ua,SUCCESS,0.08
-kennethehartman.com,SUCCESS,0.11
-hemcolubricants.com,SUCCESS,0.1
-forpsi.net,SUCCESS,0.08
-memeblender.com,SUCCESS,0.09
-somode.com,FAIL,5.69
-gamemob.com,SUCCESS,0.19
-monsterhomesecuritystore.com,FAIL,46.26
-door2games.com,SUCCESS,0.28
-ondemandappliancerepair.com,SUCCESS,0.1
-gensee.com,SUCCESS,0.08
-caricsports.com,SUCCESS,0.11
-auqzzx.com,FAIL,4.98
-toaskfuture.com,SUCCESS,0.17
-cetsi.fr,SUCCESS,0.08
-probigbets.com,FAIL,4.28
-bikesandtransit.com,SUCCESS,0.2
-aqvr.com,SUCCESS,0.08
-niceinternetmoney.ru,FAIL,3.67
-chonvn.com,FAIL,3.9
-eugenbotnar.com,FAIL,47.65
-phi-pe.com,FAIL,4.68
-chuamatsua.com,FAIL,9.96
-pictures-thailand.com,SUCCESS,0.29
-2brightsparks.co.uk,SUCCESS,0.25
-astrumonline.ru,SUCCESS,0.18
-blueridgelife.com,SUCCESS,0.23
-mwzip.com,SUCCESS,0.16
-gusbi.com,SUCCESS,0.08
-simternet.com,SUCCESS,0.11
-khsm.ru,SUCCESS,0.08
-livelinks.com,SUCCESS,0.1
-jantv.in,SUCCESS,0.09
-hornil.com,SUCCESS,0.08
-7dfps.com,SUCCESS,0.09
-luckypuppygames.com,SUCCESS,0.11
-b-matrix.com,SUCCESS,0.08
-coutureauchocolat.com,FAIL,4.41
-afresnohomeinspector.com,SUCCESS,0.16
-pieceinch.com,SUCCESS,0.11
-australiatradenow.com,SUCCESS,0.1
-diamondknot.com,SUCCESS,0.1
-amorefieldlife.com,SUCCESS,0.08
-sheltercoveinn.com,FAIL,48.64
-wrestlingfanssuck.com,SUCCESS,0.18
-sdccdonline.net,SUCCESS,0.09
-autofirenze.biz,SUCCESS,0.08
-house-sg.com,SUCCESS,336.54
-camcard.com,SUCCESS,0.2
-ppsuika.ac.id,SUCCESS,0.09
-healthnews4you.com,SUCCESS,0.1
-stunninggirls.net,SUCCESS,0.08
-kathihill.com,SUCCESS,0.08
-linksplash.info,FAIL,4.6
-group14eng.com,SUCCESS,0.17
-shqqaa.com,SUCCESS,0.11
-mesites.co.za,SUCCESS,0.09
-progettogiovani.pd.it,SUCCESS,0.08
-uahoy.net,FAIL,4.62
-retiragroup.com,FAIL,31.62
-effexdjs.com,FAIL,5.53
-mysearch-online.com,FAIL,4.15
-asadventure.com,SUCCESS,0.34
-michiganbulb.com,SUCCESS,0.18
-shivalikprints.com,SUCCESS,0.16
+tuhafhaberler.com,FAIL - [Errno -2] Name or service not known,29.95
+rtsab.com,FAIL - [Errno -5] No address associated with hostname,25.2
+i-butterfly.ru,SUCCESS,25.36
+datepanchang.com,SUCCESS,58.82
+localhost.re,SUCCESS,21.26
+daehepharma.com,FAIL - [Errno -5] No address associated with hostname,180.1
+ex-jw.org,SUCCESS,217.06
+us.tf,FAIL - [Errno -3] Temporary failure in name resolution,4056.41
+informarexresistere.fr,SUCCESS,23.01
+running-sigi.de,FAIL - [Errno -2] Name or service not known,177.0
+buynowfromusa.com,SUCCESS,84.84
+pbprofile.com,FAIL - [Errno -2] Name or service not known,87.54
+fini.net,SUCCESS,22.09
+globalpoliticalspectrum.com,FAIL - [Errno -2] Name or service not known,26.16
+41latitude.com,FAIL - [Errno -5] No address associated with hostname,22.26
+zzxu.cn,FAIL - [Errno -5] No address associated with hostname,421.03
+energybulbs.co.uk,SUCCESS,21.08
+o-ov.com,FAIL - [Errno -3] Temporary failure in name resolution,297.25
+lozo.com,SUCCESS,27.76
+tottenhamhk.com,FAIL - [Errno -2] Name or service not known,84.2
+newstetic.com,SUCCESS,20.86
+triggerfish.se,SUCCESS,372.98
+reprosystems.ru,SUCCESS,25.09
+interfloracentral.co.uk,SUCCESS,19.46
+afairjudgement.com,SUCCESS,23.87
+owlcreek.com,SUCCESS,23.86
+radioterminal.ru,SUCCESS,23.23
+junio.com,SUCCESS,21.45
+ditrblog.com,FAIL - [Errno -2] Name or service not known,26.88
+alchemedialtd.com,SUCCESS,22.09
+portclydegeneralstore.com,SUCCESS,137.28
+alenpuaca.com,SUCCESS,283.24
+dj-producer-j-mbargo.com,FAIL - [Errno -2] Name or service not known,28.02
+iag-inc.com,SUCCESS,23.64
+advertos.ru,SUCCESS,19.81
+kh.ua,SUCCESS,21.91
+kennethehartman.com,SUCCESS,84.08
+hemcolubricants.com,SUCCESS,22.94
+forpsi.net,SUCCESS,315.47
+memeblender.com,SUCCESS,21.92
+somode.com,FAIL - [Errno -2] Name or service not known,28.41
+gamemob.com,SUCCESS,20.27
+monsterhomesecuritystore.com,FAIL - [Errno -2] Name or service not known,25.87
+door2games.com,SUCCESS,24.71
+ondemandappliancerepair.com,SUCCESS,22.22
+gensee.com,SUCCESS,23.82
+caricsports.com,SUCCESS,25.07
+auqzzx.com,FAIL - [Errno -2] Name or service not known,24.13
+toaskfuture.com,SUCCESS,23.83
+cetsi.fr,SUCCESS,21.48
+probigbets.com,FAIL - [Errno -2] Name or service not known,31.52
+bikesandtransit.com,SUCCESS,19.97
+aqvr.com,SUCCESS,313.2
+niceinternetmoney.ru,FAIL - [Errno -2] Name or service not known,665.3
+chonvn.com,FAIL - [Errno -2] Name or service not known,27.43
+eugenbotnar.com,FAIL - [Errno -2] Name or service not known,26.61
+phi-pe.com,FAIL - [Errno -2] Name or service not known,24.74
+chuamatsua.com,FAIL - [Errno -3] Temporary failure in name resolution,339.27
+pictures-thailand.com,SUCCESS,23.26
+2brightsparks.co.uk,SUCCESS,26.48
+astrumonline.ru,SUCCESS,405.37
+blueridgelife.com,SUCCESS,22.92
+mwzip.com,SUCCESS,30.64
+gusbi.com,SUCCESS,22.61
+simternet.com,SUCCESS,21.29
+khsm.ru,SUCCESS,783.96
+livelinks.com,SUCCESS,26.73
+jantv.in,SUCCESS,31.92
+hornil.com,SUCCESS,23.23
+7dfps.com,SUCCESS,33.65
+luckypuppygames.com,SUCCESS,267.01
+b-matrix.com,SUCCESS,82.41
+coutureauchocolat.com,FAIL - [Errno -2] Name or service not known,28.02
+afresnohomeinspector.com,SUCCESS,21.18
+pieceinch.com,SUCCESS,20.88
+australiatradenow.com,SUCCESS,90.11
+diamondknot.com,SUCCESS,23.45
+amorefieldlife.com,SUCCESS,23.89
+sheltercoveinn.com,FAIL - [Errno -5] No address associated with hostname,23.72
+wrestlingfanssuck.com,SUCCESS,21.15
+sdccdonline.net,SUCCESS,20.85
+autofirenze.biz,SUCCESS,23.14
+house-sg.com,SUCCESS,321.57
+camcard.com,SUCCESS,33.26
+ppsuika.ac.id,SUCCESS,26.22
+healthnews4you.com,SUCCESS,21.95
+stunninggirls.net,SUCCESS,22.57
+kathihill.com,SUCCESS,21.18
+linksplash.info,FAIL - [Errno -2] Name or service not known,1084.85
+group14eng.com,SUCCESS,23.13
+shqqaa.com,SUCCESS,26.1
+mesites.co.za,SUCCESS,23.92
+progettogiovani.pd.it,SUCCESS,21.57
+uahoy.net,FAIL - [Errno -2] Name or service not known,28.17
+retiragroup.com,FAIL - [Errno -2] Name or service not known,24.6
+effexdjs.com,FAIL - [Errno -2] Name or service not known,24.47
+mysearch-online.com,FAIL - [Errno -2] Name or service not known,25.39
+asadventure.com,SUCCESS,27.04
+michiganbulb.com,SUCCESS,23.05
+shivalikprints.com,SUCCESS,20.16

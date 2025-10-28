@@ -57,7 +57,7 @@ def log_latencies(net):
                 row.append(latency if latency else "timeout")
             writer.writerow(row)
 
-    print(f"\n✅ Latency matrix saved to {csv_file}")
+    print(f"\nLatency matrix saved to {csv_file}")
 
 if __name__ == '__main__':
     net = Mininet(topo=DNSTopo(), controller=OVSController, link=TCLink)
@@ -66,7 +66,7 @@ if __name__ == '__main__':
     print("*** Network started")
     print("*** Testing connectivity:")
     net.pingFull()
-    log_latencies(net)
+    # log_latencies(net)
     print("*** Dropping into CLI: test manually if needed")
     CLI(net)
     net.stop()
