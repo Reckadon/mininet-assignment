@@ -7,6 +7,7 @@
     - [**B. In the simulated topology, use the default host resolver to resolve the URLs specified in each host’s respective PCAP file, and record for each host the average lookup latency, average throughput, number of successfully resolved queries, and number of failed resolutions. (10 Points)**](#b-in-the-simulated-topology-use-the-default-host-resolver-to-resolve-the-urls-specified-in-each-hosts-respective-pcap-file-and-record-for-each-host-the-average-lookup-latency-average-throughput-number-of-successfully-resolved-queries-and-number-of-failed-resolutions-10-points)
     - [**C. Modify the DNS configuration of all Mininet hosts to use your custom resolver as the primary DNS server instead of the default system resolver. Show all the steps along with relevant screenshots. (10 Points)**](#c-modify-the-dns-configuration-of-all-mininet-hosts-to-use-your-custom-resolver-as-the-primary-dns-server-instead-of-the-default-system-resolver-show-all-the-steps-along-with-relevant-screenshots-10-points)
     - [**D. Repeat DNS resolution for the given PCAPs as done in part B, this time using your custom DNS resolver (10.0.0.5). Compare the results with those obtained in part B. Additionally, log the following in the custom DNS resolver:**](#d-repeat-dns-resolution-for-the-given-pcaps-as-done-in-part-b-this-time-using-your-custom-dns-resolver-10005-compare-the-results-with-those-obtained-in-part-b-additionally-log-the-following-in-the-custom-dns-resolver)
+      - [Plots for H1 (first 10 URLs)](#plots-for-h1-first-10-urls)
 
 **Team Details:**
 Name | Roll Number
@@ -250,3 +251,8 @@ where you can replace h1/H1 with h2/H2, h3/H3 and h4/H4 respectively.
 Then, you can see the logs live in the `csv` files mentioned above.
 ![detailedsteps](images/D-steps2.png)
 ![summaries](images/D-summaries.png)
+
+#### Plots for H1 (first 10 URLs)
+**Pure Iterative Server**
+![dns queries](images/H1_servers.png)
+![latency](images/H1_latency.png)
