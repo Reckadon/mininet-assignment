@@ -25,6 +25,9 @@ top10 = merged.head(10)
 # --- Plot 1: Latency per query ---
 plt.figure(figsize=(9, 4))
 plt.bar(top10['domain'], top10['latency_ms'], color='skyblue', edgecolor='black')
+#add text labels on top of bars
+for i, v in enumerate(top10['latency_ms']):
+    plt.text(i, v + 1, str(round(v, 2)), ha='center', va='bottom', fontsize=8)
 plt.xticks(rotation=45, ha='right')
 plt.ylabel("Latency (ms)")
 plt.title("Total DNS Resolution Latency (First 10 Domains)")
@@ -35,6 +38,9 @@ plt.show()
 # --- Plot 2: Servers visited per query ---
 plt.figure(figsize=(9, 4))
 plt.bar(top10['domain'], top10['servers_visited'], color='lightgreen', edgecolor='black')
+#add text labels on top of bars
+for i, v in enumerate(top10['servers_visited']):
+    plt.text(i, v + 1, str(round(v, 2)), ha='center', va='bottom', fontsize=8)
 plt.xticks(rotation=45, ha='right')
 plt.ylabel("Servers Visited")
 plt.title("Number of DNS Servers Visited (First 10 Domains)")
