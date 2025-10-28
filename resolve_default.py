@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 resolve_default.py
 -------------------
@@ -8,7 +7,7 @@ resolves each using the system resolver, measures latency,
 and writes results to results/H1_default_results.csv.
 
 Usage:
-    python3 resolve_default.py H1
+    python resolve_default.py H1
 """
 
 import socket

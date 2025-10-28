@@ -1,101 +1,101 @@
 Domain,Status,Latency (ms)
-tenant-internet.com,FAIL - [Errno -2] Name or service not known,56.59
-gadanguides.com,SUCCESS,49.12
-charityjob.co.uk,SUCCESS,55.75
-sarahpartridge.net,FAIL - [Errno -2] Name or service not known,56.74
-ecolems.com,SUCCESS,59.76
-marilynlingerie.com,FAIL - [Errno -2] Name or service not known,56.06
-anvilnetworksolutions.net,SUCCESS,52.75
-cdmail.fr,SUCCESS,50.77
-freeditorial.com,SUCCESS,55.21
-ciber.com,SUCCESS,52.39
-get-webby.com,FAIL - [Errno -2] Name or service not known,58.38
-gadgetgearpro.com,FAIL - [Errno -2] Name or service not known,118.54
-sonoma-marinfair.org,SUCCESS,120.32
-ishidatic.com,SUCCESS,50.6
-minecraftserverdeals.com,SUCCESS,51.38
-romney.com,SUCCESS,50.42
-bookingnest.com,SUCCESS,53.37
-metar.gr,SUCCESS,417.96
-bigliettieventi.info,FAIL - [Errno -2] Name or service not known,50.64
-asseenontvlaunchpad.com,FAIL - [Errno -2] Name or service not known,55.48
-ftf.com,SUCCESS,50.04
-polymth.com,SUCCESS,60.99
-crsgfk.de,FAIL - [Errno -2] Name or service not known,127.47
-urbannetwork.co.uk,SUCCESS,54.53
-synrc.com,SUCCESS,59.71
-callcomm.info,FAIL - [Errno -2] Name or service not known,116.02
-ceskykutil.cz,SUCCESS,49.19
-ximangquantrieu.com,SUCCESS,53.38
-shishioh.info,SUCCESS,255.5
-vpndefender.com,SUCCESS,56.88
-hutago.com,SUCCESS,204.98
-tangkas888.com,SUCCESS,52.42
-egov.sy,SUCCESS,50.15
-abmcare.com,SUCCESS,57.08
-iael.com,SUCCESS,51.21
-sailor.pl,SUCCESS,429.78
-skyhightmatter.info,FAIL - [Errno -2] Name or service not known,112.94
-autopareri.com,SUCCESS,51.02
-cia.it,SUCCESS,363.3
-texasbeyondhistory.net,SUCCESS,52.52
-gardenofwords.com,SUCCESS,116.79
-giuseppelivraghi.it,SUCCESS,50.72
-hdcric.com,SUCCESS,51.87
-chekiang.info,FAIL - [Errno -2] Name or service not known,168.36
-archiportale.com,SUCCESS,57.11
-de.vu,SUCCESS,52.57
-teachmyass.info,SUCCESS,406.97
-nasaspaceflight.com,SUCCESS,54.89
-consumerreviews24.com,FAIL - [Errno -2] Name or service not known,113.46
-dilw.ie,SUCCESS,52.04
-bbqinjector.com,FAIL - [Errno -2] Name or service not known,55.09
-gxjbsj.com,SUCCESS,51.11
-fmnara.com,SUCCESS,356.56
-pet-connect.ru,SUCCESS,54.82
-synchchaos.com,SUCCESS,307.12
-uca.edu,SUCCESS,51.17
-oaister.org,SUCCESS,56.96
-chenghuavideo.asia,FAIL - [Errno -3] Temporary failure in name resolution,903.94
-video-peche-poisson.fr,FAIL - [Errno -2] Name or service not known,53.24
-currencyrates.org,SUCCESS,52.49
-zpav.pl,SUCCESS,48.9
-tawali.com,SUCCESS,116.25
-dock2office.com,FAIL - [Errno -2] Name or service not known,291.46
-vlielandoutdoorcenter.nl,SUCCESS,462.93
-gregginn.com,SUCCESS,119.49
-arcoat.com,SUCCESS,49.95
-cushinglawoffices.com,FAIL - [Errno -2] Name or service not known,61.64
-eggcityradio.com,SUCCESS,50.43
-michaelbyers.org,SUCCESS,178.95
-stkpro.ru,SUCCESS,54.02
-silveropt.ru,FAIL - [Errno -2] Name or service not known,582.85
-topbarbee.com,SUCCESS,61.85
-teleskill.it,SUCCESS,55.36
-virtualjerusalem.com,SUCCESS,56.46
-morban.co.uk,SUCCESS,56.81
-mechachal.org,FAIL - [Errno -2] Name or service not known,152.83
-noblewomanhood.com,SUCCESS,368.28
-cosmeticaestheticsurgery.com,SUCCESS,121.86
-note-so-easy.co.za,SUCCESS,52.42
-vietcapitaltour.com,FAIL - [Errno -2] Name or service not known,58.12
-ncees.org,SUCCESS,54.3
-laigang001.com,FAIL - [Errno -2] Name or service not known,53.93
-verlockeshop.de,SUCCESS,331.6
-clickdownloadfiles.com,FAIL - [Errno -2] Name or service not known,54.77
-e-hps.com,SUCCESS,51.95
-drglendza.co.rs,FAIL - [Errno -2] Name or service not known,53.43
-ghimpele.ro,SUCCESS,122.17
-pahibu.net,FAIL - [Errno -2] Name or service not known,55.6
-trackcheatingspouse.com,FAIL - [Errno -2] Name or service not known,55.63
-dricom-hosting.nl,SUCCESS,412.7
-medipacademy.com,SUCCESS,53.3
-e-daily.gr,SUCCESS,116.55
-cuteteenschoolgirlz.com,FAIL - [Errno -2] Name or service not known,55.25
-hralda.info,FAIL - [Errno -2] Name or service not known,109.7
-sendrakhizonline.com,SUCCESS,172.8
-hayalforum.net,FAIL - [Errno -2] Name or service not known,57.57
-begleyhutton.com,SUCCESS,51.8
-bmw-parts.ru,SUCCESS,51.88
-rterc.in,SUCCESS,123.34
-monitis.com,SUCCESS,51.66
+tenant-internet.com,FAIL - [Errno -2] Name or service not known,58.28
+gadanguides.com,SUCCESS,51.11
+charityjob.co.uk,SUCCESS,49.93
+sarahpartridge.net,FAIL - [Errno -2] Name or service not known,55.99
+ecolems.com,SUCCESS,50.92
+marilynlingerie.com,FAIL - [Errno -2] Name or service not known,55.21
+anvilnetworksolutions.net,SUCCESS,317.56
+cdmail.fr,SUCCESS,50.6
+freeditorial.com,SUCCESS,53.62
+ciber.com,SUCCESS,50.58
+get-webby.com,FAIL - [Errno -2] Name or service not known,55.99
+gadgetgearpro.com,FAIL - [Errno -2] Name or service not known,54.51
+sonoma-marinfair.org,SUCCESS,58.36
+ishidatic.com,SUCCESS,332.94
+minecraftserverdeals.com,SUCCESS,118.0
+romney.com,SUCCESS,49.61
+bookingnest.com,SUCCESS,117.98
+metar.gr,SUCCESS,53.73
+bigliettieventi.info,FAIL - [Errno -2] Name or service not known,55.5
+asseenontvlaunchpad.com,FAIL - [Errno -2] Name or service not known,51.93
+ftf.com,SUCCESS,82.6
+polymth.com,SUCCESS,51.15
+crsgfk.de,FAIL - [Errno -2] Name or service not known,114.42
+urbannetwork.co.uk,SUCCESS,114.17
+synrc.com,SUCCESS,57.2
+callcomm.info,FAIL - [Errno -2] Name or service not known,171.12
+ceskykutil.cz,SUCCESS,390.21
+ximangquantrieu.com,SUCCESS,53.92
+shishioh.info,SUCCESS,251.22
+vpndefender.com,SUCCESS,58.23
+hutago.com,SUCCESS,58.07
+tangkas888.com,SUCCESS,56.06
+egov.sy,SUCCESS,398.73
+abmcare.com,SUCCESS,118.51
+iael.com,SUCCESS,53.08
+sailor.pl,SUCCESS,49.43
+skyhightmatter.info,FAIL - [Errno -2] Name or service not known,48.75
+autopareri.com,SUCCESS,49.96
+cia.it,SUCCESS,401.25
+texasbeyondhistory.net,SUCCESS,628.0
+gardenofwords.com,SUCCESS,119.53
+giuseppelivraghi.it,SUCCESS,57.49
+hdcric.com,SUCCESS,50.89
+chekiang.info,FAIL - [Errno -2] Name or service not known,288.51
+archiportale.com,SUCCESS,56.19
+de.vu,SUCCESS,51.6
+teachmyass.info,SUCCESS,568.86
+nasaspaceflight.com,SUCCESS,59.58
+consumerreviews24.com,FAIL - [Errno -2] Name or service not known,286.7
+dilw.ie,SUCCESS,55.09
+bbqinjector.com,FAIL - [Errno -2] Name or service not known,53.76
+gxjbsj.com,SUCCESS,144.57
+fmnara.com,SUCCESS,361.35
+pet-connect.ru,SUCCESS,48.68
+synchchaos.com,SUCCESS,374.39
+uca.edu,SUCCESS,50.85
+oaister.org,SUCCESS,56.11
+chenghuavideo.asia,FAIL - [Errno -3] Temporary failure in name resolution,624.11
+video-peche-poisson.fr,FAIL - [Errno -2] Name or service not known,57.97
+currencyrates.org,SUCCESS,114.64
+zpav.pl,SUCCESS,50.3
+tawali.com,SUCCESS,111.16
+dock2office.com,FAIL - [Errno -2] Name or service not known,54.12
+vlielandoutdoorcenter.nl,SUCCESS,52.87
+gregginn.com,SUCCESS,107.58
+arcoat.com,SUCCESS,50.89
+cushinglawoffices.com,FAIL - [Errno -2] Name or service not known,53.59
+eggcityradio.com,SUCCESS,53.96
+michaelbyers.org,SUCCESS,52.48
+stkpro.ru,SUCCESS,51.79
+silveropt.ru,FAIL - [Errno -2] Name or service not known,861.59
+topbarbee.com,SUCCESS,51.78
+teleskill.it,SUCCESS,162.57
+virtualjerusalem.com,SUCCESS,51.88
+morban.co.uk,SUCCESS,53.29
+mechachal.org,FAIL - [Errno -2] Name or service not known,51.93
+noblewomanhood.com,SUCCESS,51.52
+cosmeticaestheticsurgery.com,SUCCESS,47.68
+note-so-easy.co.za,SUCCESS,52.22
+vietcapitaltour.com,FAIL - [Errno -2] Name or service not known,271.33
+ncees.org,SUCCESS,52.79
+laigang001.com,FAIL - [Errno -2] Name or service not known,290.69
+verlockeshop.de,SUCCESS,415.7
+clickdownloadfiles.com,FAIL - [Errno -2] Name or service not known,53.39
+e-hps.com,SUCCESS,52.29
+drglendza.co.rs,FAIL - [Errno -2] Name or service not known,203.87
+ghimpele.ro,SUCCESS,112.4
+pahibu.net,FAIL - [Errno -2] Name or service not known,59.07
+trackcheatingspouse.com,FAIL - [Errno -2] Name or service not known,55.57
+dricom-hosting.nl,SUCCESS,412.98
+medipacademy.com,SUCCESS,59.16
+e-daily.gr,SUCCESS,52.38
+cuteteenschoolgirlz.com,FAIL - [Errno -2] Name or service not known,55.21
+hralda.info,FAIL - [Errno -2] Name or service not known,231.31
+sendrakhizonline.com,SUCCESS,49.79
+hayalforum.net,FAIL - [Errno -2] Name or service not known,55.97
+begleyhutton.com,SUCCESS,50.9
+bmw-parts.ru,SUCCESS,52.09
+rterc.in,SUCCESS,59.32
+monitis.com,SUCCESS,49.6

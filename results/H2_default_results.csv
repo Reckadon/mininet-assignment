@@ -1,101 +1,101 @@
 Domain,Status,Latency (ms)
-likeminded.ca,SUCCESS,32.43
-alltransport.ru,SUCCESS,463.42
-brown.edu,SUCCESS,315.74
-fauzanalfi.com,FAIL - [Errno -5] No address associated with hostname,91.23
-supreetsethi.net,FAIL - [Errno -2] Name or service not known,43.93
-gucenmez.com,SUCCESS,33.23
-seedy.dk,SUCCESS,33.68
-51cdngo.com,FAIL - [Errno -5] No address associated with hostname,35.27
-simple-health-reports.com,FAIL - [Errno -2] Name or service not known,37.32
-hivelocitymedia.com,SUCCESS,33.54
-jabeye.org,SUCCESS,636.11
-ticketbis.com,FAIL - [Errno -5] No address associated with hostname,92.01
-cellularfactory.com,SUCCESS,34.86
-tsksv.ru,SUCCESS,412.3
-gaybodyblog.com,SUCCESS,39.78
-datadikdki.net,SUCCESS,30.98
-mumphi.de,SUCCESS,30.59
-brfone.com,SUCCESS,375.73
-newpages2u.com,SUCCESS,36.01
-bigjournalism.com,SUCCESS,100.21
-congsoxanh.com,SUCCESS,41.69
-visualtap.com,SUCCESS,33.54
-oberoncompany.com,SUCCESS,41.82
-consejodentistas.org,SUCCESS,349.37
-k-dsl.de,FAIL - [Errno -2] Name or service not known,94.5
-asip.es,FAIL - [Errno -2] Name or service not known,36.89
-androgyn.org,SUCCESS,368.99
-panaceadream.com,FAIL - [Errno -2] Name or service not known,39.67
-hotel.ch,SUCCESS,36.38
-c3budiman.tk,FAIL - [Errno -2] Name or service not known,172.67
-obtscan.com,FAIL - [Errno -2] Name or service not known,38.37
-phoenix-music.ru,FAIL - [Errno -2] Name or service not known,849.18
-motiie.com,FAIL - [Errno -2] Name or service not known,38.89
-cncdesign.co.kr,SUCCESS,31.7
-udoo24.com,SUCCESS,33.04
-ljyelectronic.com,SUCCESS,33.65
-bek.ir,FAIL - [Errno -2] Name or service not known,387.26
-valerievandenbroek.nl,FAIL - [Errno -2] Name or service not known,34.74
-lacuentaperdida.org,FAIL - [Errno -2] Name or service not known,95.26
-alkoholiker-clan.de,SUCCESS,35.49
-doommovie.com,SUCCESS,33.68
-xqgcab.com,FAIL - [Errno -2] Name or service not known,97.79
-uanet.net,SUCCESS,401.61
-tomorrowsreflection.com,SUCCESS,32.29
-lighthouse.cc,SUCCESS,31.91
-7sports.jp,SUCCESS,303.09
-gamepsvita.com,SUCCESS,38.77
-thunderex.com,SUCCESS,90.47
-zamlelova.ru,SUCCESS,1828.04
-atomicbase.com,SUCCESS,32.38
-qdushu.com,SUCCESS,33.38
-raqualia.com,FAIL - [Errno -5] No address associated with hostname,32.19
-fanzi.pl,FAIL - [Errno -2] Name or service not known,33.73
-womenology.com,SUCCESS,40.89
-tonaci.com,SUCCESS,43.24
-youngsnetwork.it,FAIL - [Errno -2] Name or service not known,37.03
-gvowebcast.com,SUCCESS,42.19
-aspiringwriter.ca,FAIL - [Errno -2] Name or service not known,96.88
-heygal.net,FAIL - [Errno -2] Name or service not known,40.87
-mpskota.com,SUCCESS,58.95
-ohdev.co.uk,SUCCESS,34.59
-topilehtipuu.com,SUCCESS,34.07
-thereeftank.com,SUCCESS,36.41
-volksschule-neufahrn.de,FAIL - [Errno -2] Name or service not known,93.84
-qingjiaopidaiji.com,FAIL - [Errno -2] Name or service not known,39.81
-jcwcn.com,SUCCESS,34.48
-huhgmbh.com,SUCCESS,32.37
-redcrosseth.org,SUCCESS,31.5
-lookpage.org,FAIL - [Errno -2] Name or service not known,1100.62
-mplus.hk,SUCCESS,1445.95
-sandieskorner.com,FAIL - [Errno -2] Name or service not known,40.39
-sinemagrafik.com,FAIL - [Errno -2] Name or service not known,269.1
-itattoos.org,FAIL - [Errno -2] Name or service not known,33.3
-lgmonitorreview.nl,FAIL - [Errno -2] Name or service not known,33.87
-sscw.ee,SUCCESS,32.66
-nucre.com,SUCCESS,32.35
-cornesoft.com,FAIL - [Errno -2] Name or service not known,91.76
-mattselznick.com,SUCCESS,302.45
-horn-elektronik.com,SUCCESS,743.31
-rousing.dk,SUCCESS,33.11
-i12.de,FAIL - [Errno -5] No address associated with hostname,39.27
-casco.com,SUCCESS,44.1
-ambassadorsspfhf.org,FAIL - [Errno -2] Name or service not known,531.18
-capella.edu,SUCCESS,35.76
-nipslab.org,SUCCESS,31.92
-webxtrap.com,SUCCESS,33.43
-stopallthathating.com,FAIL - [Errno -2] Name or service not known,40.38
-ovtoc.com,SUCCESS,31.29
-vaco.ru,SUCCESS,35.28
-ku.edu,SUCCESS,299.03
-amedeos.net,SUCCESS,32.57
-thankfullyyours.com,SUCCESS,99.15
-elettronix.com,SUCCESS,34.02
-meintrendyhandy.de,SUCCESS,408.0
-a-loud.com,SUCCESS,33.53
-hznzcn.com,SUCCESS,466.34
-zilch.org,SUCCESS,32.68
-metabans.com,SUCCESS,96.33
-tretsomshop.nl,SUCCESS,306.2
-gba4iosapp.com,SUCCESS,31.74
+likeminded.ca,SUCCESS,331.3
+alltransport.ru,SUCCESS,31.43
+brown.edu,SUCCESS,31.02
+fauzanalfi.com,FAIL - [Errno -5] No address associated with hostname,105.64
+supreetsethi.net,FAIL - [Errno -2] Name or service not known,37.51
+gucenmez.com,SUCCESS,45.35
+seedy.dk,SUCCESS,34.28
+51cdngo.com,FAIL - [Errno -5] No address associated with hostname,46.91
+simple-health-reports.com,FAIL - [Errno -2] Name or service not known,270.81
+hivelocitymedia.com,SUCCESS,39.52
+jabeye.org,SUCCESS,284.03
+ticketbis.com,FAIL - [Errno -5] No address associated with hostname,34.72
+cellularfactory.com,SUCCESS,33.13
+tsksv.ru,SUCCESS,419.21
+gaybodyblog.com,SUCCESS,48.86
+datadikdki.net,SUCCESS,43.55
+mumphi.de,SUCCESS,38.21
+brfone.com,SUCCESS,37.42
+newpages2u.com,SUCCESS,332.94
+bigjournalism.com,SUCCESS,38.77
+congsoxanh.com,SUCCESS,37.16
+visualtap.com,SUCCESS,35.79
+oberoncompany.com,SUCCESS,37.07
+consejodentistas.org,SUCCESS,98.03
+k-dsl.de,FAIL - [Errno -2] Name or service not known,94.56
+asip.es,FAIL - [Errno -2] Name or service not known,40.76
+androgyn.org,SUCCESS,653.69
+panaceadream.com,FAIL - [Errno -2] Name or service not known,38.34
+hotel.ch,SUCCESS,40.14
+c3budiman.tk,FAIL - [Errno -2] Name or service not known,165.57
+obtscan.com,FAIL - [Errno -2] Name or service not known,39.49
+phoenix-music.ru,FAIL - [Errno -2] Name or service not known,707.82
+motiie.com,FAIL - [Errno -2] Name or service not known,37.34
+cncdesign.co.kr,SUCCESS,33.65
+udoo24.com,SUCCESS,101.98
+ljyelectronic.com,SUCCESS,34.75
+bek.ir,FAIL - [Errno -2] Name or service not known,405.28
+valerievandenbroek.nl,FAIL - [Errno -2] Name or service not known,34.68
+lacuentaperdida.org,FAIL - [Errno -2] Name or service not known,154.7
+alkoholiker-clan.de,SUCCESS,35.28
+doommovie.com,SUCCESS,39.87
+xqgcab.com,FAIL - [Errno -2] Name or service not known,37.86
+uanet.net,SUCCESS,268.41
+tomorrowsreflection.com,SUCCESS,152.22
+lighthouse.cc,SUCCESS,33.28
+7sports.jp,SUCCESS,32.78
+gamepsvita.com,SUCCESS,37.1
+thunderex.com,SUCCESS,33.13
+zamlelova.ru,SUCCESS,33.4
+atomicbase.com,SUCCESS,34.64
+qdushu.com,SUCCESS,35.94
+raqualia.com,FAIL - [Errno -5] No address associated with hostname,172.08
+fanzi.pl,FAIL - [Errno -2] Name or service not known,33.48
+womenology.com,SUCCESS,33.77
+tonaci.com,SUCCESS,35.24
+youngsnetwork.it,FAIL - [Errno -2] Name or service not known,32.26
+gvowebcast.com,SUCCESS,44.67
+aspiringwriter.ca,FAIL - [Errno -2] Name or service not known,32.24
+heygal.net,FAIL - [Errno -2] Name or service not known,39.08
+mpskota.com,SUCCESS,40.58
+ohdev.co.uk,SUCCESS,37.85
+topilehtipuu.com,SUCCESS,33.8
+thereeftank.com,SUCCESS,33.12
+volksschule-neufahrn.de,FAIL - [Errno -2] Name or service not known,392.53
+qingjiaopidaiji.com,FAIL - [Errno -2] Name or service not known,95.2
+jcwcn.com,SUCCESS,35.05
+huhgmbh.com,SUCCESS,34.8
+redcrosseth.org,SUCCESS,34.23
+lookpage.org,FAIL - [Errno -2] Name or service not known,156.8
+mplus.hk,SUCCESS,34.51
+sandieskorner.com,FAIL - [Errno -2] Name or service not known,259.46
+sinemagrafik.com,FAIL - [Errno -2] Name or service not known,37.2
+itattoos.org,FAIL - [Errno -2] Name or service not known,91.42
+lgmonitorreview.nl,FAIL - [Errno -2] Name or service not known,95.36
+sscw.ee,SUCCESS,34.08
+nucre.com,SUCCESS,97.15
+cornesoft.com,FAIL - [Errno -2] Name or service not known,37.42
+mattselznick.com,SUCCESS,285.44
+horn-elektronik.com,SUCCESS,33.12
+rousing.dk,SUCCESS,31.92
+i12.de,FAIL - [Errno -5] No address associated with hostname,34.5
+casco.com,SUCCESS,36.21
+ambassadorsspfhf.org,FAIL - [Errno -2] Name or service not known,32.18
+capella.edu,SUCCESS,42.5
+nipslab.org,SUCCESS,33.38
+webxtrap.com,SUCCESS,33.0
+stopallthathating.com,FAIL - [Errno -2] Name or service not known,39.29
+ovtoc.com,SUCCESS,33.37
+vaco.ru,SUCCESS,417.95
+ku.edu,SUCCESS,300.54
+amedeos.net,SUCCESS,97.36
+thankfullyyours.com,SUCCESS,156.6
+elettronix.com,SUCCESS,33.38
+meintrendyhandy.de,SUCCESS,558.08
+a-loud.com,SUCCESS,33.14
+hznzcn.com,SUCCESS,522.72
+zilch.org,SUCCESS,31.94
+metabans.com,SUCCESS,37.79
+tretsomshop.nl,SUCCESS,309.93
+gba4iosapp.com,SUCCESS,32.89
