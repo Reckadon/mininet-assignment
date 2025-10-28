@@ -1,0 +1,2 @@
+Total Queries,Success,Failed,Avg Latency (ms),Throughput (qps),% Cache Resolved
+100,70,30,805.65,0.15,0.00
